@@ -34,3 +34,21 @@ P.S. After finishing the complete converge path planning algorithm, if we still 
 **Team Name: All the teams’ grades above are invalid**
 
 **Team Member: zheyuanm, keyanguo, yfeng24**
+
+## Reference
+
+[1] https://github.com/AtsushiSakai/PythonRobotics
+
+[2] https://github.com/sontdhust/wandrian_src
+
+[3] https://answers.ros.org/question/212614/complete-coverage-path-planning-ros/
+
+[4] http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/
+
+[5] https://benthamopen.com/contents/pdf/TOCSJ/TOCSJ-8-418.pdf
+
+[6] http://wiki.ros.org/turtlebot_gazebo/Tutorials/indigo/Explore%20the%20Gazebo%20world
+
+[7] https://segmentfault.com/a/1190000012972451
+
+[8] https://github.com/kyle5843/AI_TermProject
